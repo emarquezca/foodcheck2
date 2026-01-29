@@ -1,6 +1,6 @@
 # FoodCheck MiniMax
 
-FoodCheck es una aplicación web moderna y eficiente para el seguimiento nutricional personalizado. Esta es una replica mejorada de la aplicación original FoodCheck, desarrollada con tecnologías web modernas y diseñada para funcionar completamente en el navegador.
+FoodCheck es una aplicación web moderna y eficiente para el seguimiento nutricional personalizado. Este proyecto es un experimento en el que se ha intentado hacer una réplica mejorada de la aplicación original FoodCheck mediante MiniMax m2.1.
 
 ## Características
 
